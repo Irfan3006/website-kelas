@@ -4,3 +4,6 @@ Creator : Irfan Syarifudin
 
 # cara menggunakan
 git clone https://github.com/Irfan3006/website-kelas.git
+
+# Demo
+https://mienetwork.vercel.app/
