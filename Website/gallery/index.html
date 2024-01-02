@@ -1,103 +1,115 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">    <title>TKJ 24 - Gallery page</title>
-    <link rel="icon" type="image/x-icon" href="/images/log0.png">
-</head>
-<body>
-  <nav class="navbar navbar-expand-lg navbar-light text-light bg-primary" >
-    <div class="container-fluid">
-      <a class="navbar-brand text-light" href="/">TKJ 24</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-          <li class="nav-item">
-            <a class="nav-link active text-light" aria-current="page" href="/">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-light" href="/about/">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-light" href="/blog/">Blog</a>
-          </li>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link text-light" href="/snake/snake.html">Games</a>
-        </li>
-          <li class="nav-item">
-            <a class="nav-link text-light" href="/perpus/">ePerpus</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-light" href="https://limfilm30.blogspot.com/" target="_blank">eMovies</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle text-light" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Others
-            </a>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="/contact/">Contact</a></li>
-              <li><hr class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="/gallery/">Gallery</a></li>
-              <li><hr class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="/sosmed/">Sosmed</a></li>
-            </ul>
-          </li>
-        </ul>
-        <form class="d-flex" role="search">
-          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-light text-dark" type="submit">Search</button>
-        </form>
-      </div>
-    </div>
-  </nav>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous" />
+    <title>TKJ 24 - Gallery</title>
+    <link rel="icon" type="image/x-icon" href="/images/log0.png" />
+    <!-- Google Analytics -->
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-52WHW87TEC"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-  <div class="row row-cols-1 row-cols-md-2 mt-4 g-4">
-    <div class="col">
-      <div class="card">
-        <img src="../images/kirab.png" style="height: 100%; width: 100%;" class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Kirab Budaya</h5>
-          <p class="card-text">Kirab budaya dalam rangka HUT ke 58 SMK Negeri 3 Yogyakarta.</p>
+      gtag("config", "G-52WHW87TEC");
+    </script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6092608473153556" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light text-light bg-primary">
+      <div class="container-fluid">
+        <a class="navbar-brand text-light" href="/">TKJ 24</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active text-light" aria-current="page" href="/">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link text-light" href="/about/">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link text-light" href="/blog/">Blog</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link text-light" href="/snake/snake.html">Games</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link text-light" href="/perpus/">ePerpus</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link text-light" href="https://limfilm30.blogspot.com/" target="_blank">eMovies</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle text-light" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Others </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="/contact/">Contact</a></li>
+                <li><hr class="dropdown-divider" /></li>
+                <li><a class="dropdown-item" href="/gallery/">Gallery</a></li>
+                <li><hr class="dropdown-divider" /></li>
+                <li><a class="dropdown-item" href="/sosmed/">Sosmed</a></li>
+              </ul>
+            </li>
+          </ul>
+          <form class="d-flex" role="search">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
+            <button class="btn btn-outline-light text-dark" type="submit">Search</button>
+          </form>
+        </div>
+      </div>
+    </nav>
+
+    <div class="row row-cols-1 row-cols-md-2 mt-4 g-4">
+      <div class="col">
+        <div class="card">
+          <img src="../images/kirab.png" style="height: 100%; width: 100%" class="card-img-top" alt="..." />
+          <div class="card-body">
+            <h5 class="card-title">Kirab Budaya</h5>
+            <p class="card-text">Kirab budaya dalam rangka HUT ke 58 SMK Negeri 3 Yogyakarta.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <img src="../images/milo.jpg" class="card-img-top" alt="..." />
+          <div class="card-body">
+            <h5 class="card-title">Free Milo</h5>
+            <p class="card-text">Bagi bagi milo kotak secara gratis dalam rangka event milo go to school.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <img src="../images/bukber.png" class="card-img-top" alt="..." />
+          <div class="card-body">
+            <h5 class="card-title">Bukber Kelas</h5>
+            <p class="card-text">Buka bersama kelas 12 TJ di Sawah Resto Nologaten.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <img src="../images/olahraga.png" class="card-img-top" alt="..." />
+          <div class="card-body">
+            <h5 class="card-title">Jalan Jalan Olahraga</h5>
+            <p class="card-text">Jalan jalan sekaligus membersihkan sampah yang ada di jalan bersama bu eti guru olahraga.</p>
+          </div>
         </div>
       </div>
     </div>
-    <div class="col">
-      <div class="card">
-        <img src="../images/milo.jpg" class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Free Milo</h5>
-          <p class="card-text">Bagi bagi milo kotak secara gratis dalam rangka event milo go to school.</p>
-        </div>
-      </div>
-    </div>
-    <div class="col">
-      <div class="card">
-        <img src="../images/bukber.png" class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Bukber Kelas</h5>
-          <p class="card-text">Buka bersama kelas 12 TJ di Sawah Resto Nologaten.</p>
-        </div>
-      </div>
-    </div>
-    <div class="col">
-      <div class="card">
-        <img src="../images/olahraga.png" class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Jalan Jalan Olahraga</h5>
-          <p class="card-text">Jalan jalan sekaligus membersihkan sampah yang ada di jalan bersama bu eti guru olahraga.</p>
-        </div>
-      </div>
-    </div>
-  </div>
 
     <!-- First layout start -->
-    
+
     <!-- First layout end -->
-      
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script></body>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+  </body>
 </html>
