@@ -1,92 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://mienetwork.vercel.app/</loc>
-  <lastmod>2023-12-22T06:40:46+00:00</lastmod>
-  <priority>1.00</priority>
+	<loc>https://mienetwork.vercel.app/</loc>
+	<lastmod>2024-01-04T16:41:11+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://mienetwork.vercel.app/about/</loc>
-  <lastmod>2023-12-22T06:40:46+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://mienetwork.vercel.app/about/</loc>
+	<lastmod>2024-01-04T16:41:11+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://mienetwork.vercel.app/blog/</loc>
-  <lastmod>2023-12-22T06:40:46+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://mienetwork.vercel.app/blog/</loc>
+	<lastmod>2024-01-04T16:41:11+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://mienetwork.vercel.app/snake/snake.html</loc>
-  <lastmod>2023-12-22T06:40:46+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://mienetwork.vercel.app/snake/snake.html</loc>
+	<lastmod>2024-01-04T16:41:11+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://mienetwork.vercel.app/perpus/</loc>
-  <lastmod>2023-12-22T06:40:46+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://mienetwork.vercel.app/perpus/</loc>
+	<lastmod>2024-01-04T16:41:11+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://mienetwork.vercel.app/contact/</loc>
-  <lastmod>2023-12-22T06:40:46+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://mienetwork.vercel.app/contact/</loc>
+	<lastmod>2024-01-04T16:41:11+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://mienetwork.vercel.app/gallery/</loc>
-  <lastmod>2023-12-22T06:40:46+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://mienetwork.vercel.app/gallery/</loc>
+	<lastmod>2024-01-04T16:41:11+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://mienetwork.vercel.app/sosmed/</loc>
-  <lastmod>2023-12-22T06:40:46+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://mienetwork.vercel.app/sosmed/</loc>
+	<lastmod>2024-01-04T16:41:11+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://mienetwork.vercel.app/blog/mienetwork_gank.html</loc>
-  <lastmod>2023-12-22T06:40:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://mienetwork.vercel.app/blog/mienetwork_gank.html</loc>
+	<lastmod>2024-01-04T16:41:13+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://mienetwork.vercel.app/blog/solidaritas.html</loc>
-  <lastmod>2023-12-22T06:40:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://mienetwork.vercel.app/blog/solidaritas.html</loc>
+	<lastmod>2024-01-04T16:41:13+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://mienetwork.vercel.app/blog/tower.html</loc>
-  <lastmod>2023-12-22T06:40:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://mienetwork.vercel.app/blog/tower.html</loc>
+	<lastmod>2024-01-04T16:41:13+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://mienetwork.vercel.app/blog/wearpack.html</loc>
-  <lastmod>2023-12-22T06:40:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://mienetwork.vercel.app/blog/wearpack.html</loc>
+	<lastmod>2024-01-04T16:41:13+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://mienetwork.vercel.app/blog/tkj.html</loc>
-  <lastmod>2023-12-22T06:40:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://mienetwork.vercel.app/blog/tkj.html</loc>
+	<lastmod>2024-01-04T16:41:13+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://mienetwork.vercel.app/blog/proxmox.html</loc>
-  <lastmod>2023-12-22T06:40:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://mienetwork.vercel.app/blog/proxmox.html</loc>
+	<lastmod>2024-01-04T16:41:13+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://mienetwork.vercel.app/blog/voip.html</loc>
-  <lastmod>2023-12-22T06:40:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://mienetwork.vercel.app/blog/voip.html</loc>
+	<lastmod>2024-01-04T16:41:13+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://mienetwork.vercel.app/index.html</loc>
-  <lastmod>2023-12-22T06:40:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://mienetwork.vercel.app/pkl</loc>
+	<lastmod>2024-01-04T16:41:13+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
-
-
+<url>
+	<loc>https://mienetwork.vercel.app/index.html</loc>
+	<lastmod>2024-01-04T16:41:15+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
 </urlset>
