@@ -1,6 +1,6 @@
-# MieNetwork  
+# Mienetwork  
 
-Welcome to the official repository for **MieNetwork**, a website project created by Irfan Syarifudin for the 12th-grade TKJ (Computer and Network Engineering) class, 24th generation of SMK Negeri 3 Yogyakarta. 🎓💻  
+Welcome to the official repository for **Mienetwork**, a website project created by Irfan Syarifudin for the 12th-grade TKJ (Computer and Network Engineering) class, 24th generation of SMK Negeri 3 Yogyakarta. 🎓💻  
 
 ---
 
