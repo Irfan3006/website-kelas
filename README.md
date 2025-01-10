@@ -13,7 +13,7 @@ Welcome to the official repository for **Mienetwork**, a website project created
 
 ## 🚀 Demo  
 Explore the website live here:  
-👉 [MIE Network](https://mienetwork.vercel.app/)  
+👉 [Mienetwork](https://mienetwork.vercel.app/)  
 
 ---
 
